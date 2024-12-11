@@ -1,0 +1,4 @@
+Related Stocks:
+    Technology Sector: Microsoft (MSFT), Intel (INTC), and IBM (IBM)
+    Key Suppliers/Partners: Qualcomm (QCOM) and Texas Instruments (TXN)
+    Market indicator: S&P 500 ETF (SPY)
